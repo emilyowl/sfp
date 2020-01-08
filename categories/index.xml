@@ -30,27 +30,9 @@
     </item>
     
     <item>
-      <title>HTML</title>
-      <link>https://emilyowl.github.io/sfp/categories/html/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://emilyowl.github.io/sfp/categories/html/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>HTML &amp; CSS</title>
-      <link>https://emilyowl.github.io/sfp/categories/html-css/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://emilyowl.github.io/sfp/categories/html-css/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Programming Language</title>
       <link>https://emilyowl.github.io/sfp/categories/programming-language/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      <pubDate>Tue, 29 Oct 2019 21:07:47 +0600</pubDate>
       
       <guid>https://emilyowl.github.io/sfp/categories/programming-language/</guid>
       <description></description>
@@ -59,18 +41,36 @@
     <item>
       <title>Python</title>
       <link>https://emilyowl.github.io/sfp/categories/python/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      <pubDate>Tue, 29 Oct 2019 18:07:47 +0600</pubDate>
       
       <guid>https://emilyowl.github.io/sfp/categories/python/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>HTML</title>
+      <link>https://emilyowl.github.io/sfp/categories/html/</link>
+      <pubDate>Tue, 29 Oct 2019 15:07:47 +0600</pubDate>
+      
+      <guid>https://emilyowl.github.io/sfp/categories/html/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Web Design</title>
       <link>https://emilyowl.github.io/sfp/categories/web-design/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      <pubDate>Tue, 29 Oct 2019 12:07:47 +0600</pubDate>
       
       <guid>https://emilyowl.github.io/sfp/categories/web-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HTML &amp; CSS</title>
+      <link>https://emilyowl.github.io/sfp/categories/html-css/</link>
+      <pubDate>Tue, 29 Oct 2019 11:07:47 +0600</pubDate>
+      
+      <guid>https://emilyowl.github.io/sfp/categories/html-css/</guid>
       <description></description>
     </item>
     
