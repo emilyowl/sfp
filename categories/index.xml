@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on SFP | Blog</title>
+    <link>https://emilyowl.github.io/sfp/categories/</link>
+    <description>Recent content in Categories on SFP | Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Tue, 29 Oct 2019 10:07:47 +0600</lastBuildDate>
+    
+	<atom:link href="https://emilyowl.github.io/sfp/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Android And Gmaing</title>
+      <link>https://emilyowl.github.io/sfp/categories/android-and-gmaing/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://emilyowl.github.io/sfp/categories/android-and-gmaing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Go Language</title>
+      <link>https://emilyowl.github.io/sfp/categories/go-language/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://emilyowl.github.io/sfp/categories/go-language/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HTML</title>
+      <link>https://emilyowl.github.io/sfp/categories/html/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://emilyowl.github.io/sfp/categories/html/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HTML &amp; CSS</title>
+      <link>https://emilyowl.github.io/sfp/categories/html-css/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://emilyowl.github.io/sfp/categories/html-css/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Programming Language</title>
+      <link>https://emilyowl.github.io/sfp/categories/programming-language/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://emilyowl.github.io/sfp/categories/programming-language/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>https://emilyowl.github.io/sfp/categories/python/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://emilyowl.github.io/sfp/categories/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web Design</title>
+      <link>https://emilyowl.github.io/sfp/categories/web-design/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://emilyowl.github.io/sfp/categories/web-design/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
