@@ -6,10 +6,28 @@
     <description>Recent content in Photos on SFP | Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Tue, 29 Oct 2019 10:07:47 +0600</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jan 2020 19:34:26 +0800</lastBuildDate>
     
 	<atom:link href="https://emilyowl.github.io/sfp/tags/photos/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>New Post</title>
+      <link>https://emilyowl.github.io/sfp/blog/new-post/</link>
+      <pubDate>Wed, 08 Jan 2020 19:34:26 +0800</pubDate>
+      
+      <guid>https://emilyowl.github.io/sfp/blog/new-post/</guid>
+      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
+    </item>
+    
+    <item>
+      <title>New Featured Post</title>
+      <link>https://emilyowl.github.io/sfp/blog/new-featured-post/</link>
+      <pubDate>Wed, 08 Jan 2020 19:29:26 +0800</pubDate>
+      
+      <guid>https://emilyowl.github.io/sfp/blog/new-featured-post/</guid>
+      <description>想試試看發一篇文</description>
+    </item>
     
     <item>
       <title>How To Use Checklists To Improve Your UX</title>

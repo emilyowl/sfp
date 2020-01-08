@@ -3,6 +3,71 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://emilyowl.github.io/sfp/categories/</loc>
+    <lastmod>2020-01-08T19:34:26+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://emilyowl.github.io/sfp/tags/game/</loc>
+    <lastmod>2020-01-08T19:34:26+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://emilyowl.github.io/sfp/categories/go-language/</loc>
+    <lastmod>2020-01-08T19:34:26+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://emilyowl.github.io/sfp/tags/html/</loc>
+    <lastmod>2020-01-08T19:34:26+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://emilyowl.github.io/sfp/tags/new/</loc>
+    <lastmod>2020-01-08T19:34:26+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://emilyowl.github.io/sfp/blog/new-post/</loc>
+    <lastmod>2020-01-08T19:34:26+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://emilyowl.github.io/sfp/tags/photos/</loc>
+    <lastmod>2020-01-08T19:34:26+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://emilyowl.github.io/sfp/tags/python/</loc>
+    <lastmod>2020-01-08T19:34:26+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://emilyowl.github.io/sfp/</loc>
+    <lastmod>2020-01-08T19:34:26+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://emilyowl.github.io/sfp/tags/</loc>
+    <lastmod>2020-01-08T19:34:26+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://emilyowl.github.io/sfp/categories/android-and-gmaing/</loc>
+    <lastmod>2020-01-08T19:29:26+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://emilyowl.github.io/sfp/blog/new-featured-post/</loc>
+    <lastmod>2020-01-08T19:29:26+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://emilyowl.github.io/sfp/tags/react/</loc>
+    <lastmod>2020-01-08T19:29:26+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://emilyowl.github.io/sfp/about/about/</loc>
     <lastmod>2019-10-29T13:49:23+06:00</lastmod>
   </url>
@@ -25,31 +90,6 @@
   <url>
     <loc>https://emilyowl.github.io/sfp/search/</loc>
     <lastmod>2019-10-29T13:49:23+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://emilyowl.github.io/sfp/</loc>
-    <lastmod>2019-10-29T13:49:23+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://emilyowl.github.io/sfp/categories/android-and-gmaing/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://emilyowl.github.io/sfp/categories/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://emilyowl.github.io/sfp/tags/game/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://emilyowl.github.io/sfp/categories/go-language/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
   </url>
   
   <url>
@@ -118,11 +158,6 @@
   </url>
   
   <url>
-    <loc>https://emilyowl.github.io/sfp/tags/html/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://emilyowl.github.io/sfp/categories/html/</loc>
     <lastmod>2019-10-29T10:07:47+06:00</lastmod>
   </url>
@@ -133,37 +168,12 @@
   </url>
   
   <url>
-    <loc>https://emilyowl.github.io/sfp/tags/new/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://emilyowl.github.io/sfp/tags/photos/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://emilyowl.github.io/sfp/categories/programming-language/</loc>
     <lastmod>2019-10-29T10:07:47+06:00</lastmod>
   </url>
   
   <url>
     <loc>https://emilyowl.github.io/sfp/categories/python/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://emilyowl.github.io/sfp/tags/python/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://emilyowl.github.io/sfp/tags/react/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://emilyowl.github.io/sfp/tags/</loc>
     <lastmod>2019-10-29T10:07:47+06:00</lastmod>
   </url>
   
