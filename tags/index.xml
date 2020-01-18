@@ -12,15 +12,6 @@
     
     
     <item>
-      <title>Game</title>
-      <link>https://emilyowl.github.io/sfp/tags/game/</link>
-      <pubDate>Wed, 08 Jan 2020 19:34:26 +0800</pubDate>
-      
-      <guid>https://emilyowl.github.io/sfp/tags/game/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>HTML</title>
       <link>https://emilyowl.github.io/sfp/tags/html/</link>
       <pubDate>Wed, 08 Jan 2020 19:34:26 +0800</pubDate>
@@ -30,9 +21,72 @@
     </item>
     
     <item>
+      <title>Hugo</title>
+      <link>https://emilyowl.github.io/sfp/tags/hugo/</link>
+      <pubDate>Wed, 08 Jan 2020 19:34:26 +0800</pubDate>
+      
+      <guid>https://emilyowl.github.io/sfp/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>test</title>
+      <link>https://emilyowl.github.io/sfp/tags/test/</link>
+      <pubDate>Wed, 08 Jan 2020 19:34:26 +0800</pubDate>
+      
+      <guid>https://emilyowl.github.io/sfp/tags/test/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blog</title>
+      <link>https://emilyowl.github.io/sfp/tags/blog/</link>
+      <pubDate>Wed, 08 Jan 2020 19:29:26 +0800</pubDate>
+      
+      <guid>https://emilyowl.github.io/sfp/tags/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C&#43;&#43;</title>
+      <link>https://emilyowl.github.io/sfp/tags/c&#43;&#43;/</link>
+      <pubDate>Tue, 29 Oct 2019 22:07:47 +0600</pubDate>
+      
+      <guid>https://emilyowl.github.io/sfp/tags/c&#43;&#43;/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Go</title>
+      <link>https://emilyowl.github.io/sfp/tags/go/</link>
+      <pubDate>Tue, 29 Oct 2019 21:07:47 +0600</pubDate>
+      
+      <guid>https://emilyowl.github.io/sfp/tags/go/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>https://emilyowl.github.io/sfp/tags/python/</link>
+      <pubDate>Tue, 29 Oct 2019 20:07:47 +0600</pubDate>
+      
+      <guid>https://emilyowl.github.io/sfp/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Game</title>
+      <link>https://emilyowl.github.io/sfp/tags/game/</link>
+      <pubDate>Tue, 29 Oct 2019 19:07:47 +0600</pubDate>
+      
+      <guid>https://emilyowl.github.io/sfp/tags/game/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>New</title>
       <link>https://emilyowl.github.io/sfp/tags/new/</link>
-      <pubDate>Wed, 08 Jan 2020 19:34:26 +0800</pubDate>
+      <pubDate>Tue, 29 Oct 2019 19:07:47 +0600</pubDate>
       
       <guid>https://emilyowl.github.io/sfp/tags/new/</guid>
       <description></description>
@@ -41,27 +95,144 @@
     <item>
       <title>Photos</title>
       <link>https://emilyowl.github.io/sfp/tags/photos/</link>
-      <pubDate>Wed, 08 Jan 2020 19:34:26 +0800</pubDate>
+      <pubDate>Tue, 29 Oct 2019 19:07:47 +0600</pubDate>
       
       <guid>https://emilyowl.github.io/sfp/tags/photos/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Python</title>
-      <link>https://emilyowl.github.io/sfp/tags/python/</link>
-      <pubDate>Wed, 08 Jan 2020 19:34:26 +0800</pubDate>
+      <title>Brand</title>
+      <link>https://emilyowl.github.io/sfp/tags/brand/</link>
+      <pubDate>Tue, 29 Oct 2019 18:07:47 +0600</pubDate>
       
-      <guid>https://emilyowl.github.io/sfp/tags/python/</guid>
+      <guid>https://emilyowl.github.io/sfp/tags/brand/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Freelance</title>
+      <link>https://emilyowl.github.io/sfp/tags/freelance/</link>
+      <pubDate>Tue, 29 Oct 2019 18:07:47 +0600</pubDate>
+      
+      <guid>https://emilyowl.github.io/sfp/tags/freelance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>https://emilyowl.github.io/sfp/tags/research/</link>
+      <pubDate>Tue, 29 Oct 2019 18:07:47 +0600</pubDate>
+      
+      <guid>https://emilyowl.github.io/sfp/tags/research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>創業</title>
+      <link>https://emilyowl.github.io/sfp/tags/%E5%89%B5%E6%A5%AD/</link>
+      <pubDate>Tue, 29 Oct 2019 18:07:47 +0600</pubDate>
+      
+      <guid>https://emilyowl.github.io/sfp/tags/%E5%89%B5%E6%A5%AD/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thai</title>
+      <link>https://emilyowl.github.io/sfp/tags/thai/</link>
+      <pubDate>Tue, 29 Oct 2019 17:07:47 +0600</pubDate>
+      
+      <guid>https://emilyowl.github.io/sfp/tags/thai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Travel</title>
+      <link>https://emilyowl.github.io/sfp/tags/travel/</link>
+      <pubDate>Tue, 29 Oct 2019 17:07:47 +0600</pubDate>
+      
+      <guid>https://emilyowl.github.io/sfp/tags/travel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visa</title>
+      <link>https://emilyowl.github.io/sfp/tags/visa/</link>
+      <pubDate>Tue, 29 Oct 2019 17:07:47 +0600</pubDate>
+      
+      <guid>https://emilyowl.github.io/sfp/tags/visa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>包養</title>
+      <link>https://emilyowl.github.io/sfp/tags/%E5%8C%85%E9%A4%8A/</link>
+      <pubDate>Tue, 29 Oct 2019 16:07:47 +0600</pubDate>
+      
+      <guid>https://emilyowl.github.io/sfp/tags/%E5%8C%85%E9%A4%8A/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Case Study</title>
+      <link>https://emilyowl.github.io/sfp/tags/case-study/</link>
+      <pubDate>Tue, 29 Oct 2019 14:07:47 +0600</pubDate>
+      
+      <guid>https://emilyowl.github.io/sfp/tags/case-study/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UX</title>
+      <link>https://emilyowl.github.io/sfp/tags/ux/</link>
+      <pubDate>Tue, 29 Oct 2019 14:07:47 +0600</pubDate>
+      
+      <guid>https://emilyowl.github.io/sfp/tags/ux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>戶外</title>
+      <link>https://emilyowl.github.io/sfp/tags/%E6%88%B6%E5%A4%96/</link>
+      <pubDate>Tue, 29 Oct 2019 14:07:47 +0600</pubDate>
+      
+      <guid>https://emilyowl.github.io/sfp/tags/%E6%88%B6%E5%A4%96/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design Sprint</title>
+      <link>https://emilyowl.github.io/sfp/tags/design-sprint/</link>
+      <pubDate>Tue, 29 Oct 2019 13:07:47 +0600</pubDate>
+      
+      <guid>https://emilyowl.github.io/sfp/tags/design-sprint/</guid>
       <description></description>
     </item>
     
     <item>
       <title>React</title>
       <link>https://emilyowl.github.io/sfp/tags/react/</link>
-      <pubDate>Wed, 08 Jan 2020 19:29:26 +0800</pubDate>
+      <pubDate>Tue, 29 Oct 2019 12:07:47 +0600</pubDate>
       
       <guid>https://emilyowl.github.io/sfp/tags/react/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Book</title>
+      <link>https://emilyowl.github.io/sfp/tags/book/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://emilyowl.github.io/sfp/tags/book/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Read</title>
+      <link>https://emilyowl.github.io/sfp/tags/read/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://emilyowl.github.io/sfp/tags/read/</guid>
       <description></description>
     </item>
     

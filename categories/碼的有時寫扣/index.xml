@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>碼的|有時寫扣 on SFP | Blog</title>
+    <link>https://emilyowl.github.io/sfp/categories/%E7%A2%BC%E7%9A%84%E6%9C%89%E6%99%82%E5%AF%AB%E6%89%A3/</link>
+    <description>Recent content in 碼的|有時寫扣 on SFP | Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Tue, 29 Oct 2019 22:07:47 +0600</lastBuildDate>
+    
+	<atom:link href="https://emilyowl.github.io/sfp/categories/%E7%A2%BC%E7%9A%84%E6%9C%89%E6%99%82%E5%AF%AB%E6%89%A3/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Post-13</title>
+      <link>https://emilyowl.github.io/sfp/blog/post-13/</link>
+      <pubDate>Tue, 29 Oct 2019 22:07:47 +0600</pubDate>
+      
+      <guid>https://emilyowl.github.io/sfp/blog/post-13/</guid>
+      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
+    </item>
+    
+    <item>
+      <title>Post-12</title>
+      <link>https://emilyowl.github.io/sfp/blog/post-12/</link>
+      <pubDate>Tue, 29 Oct 2019 21:07:47 +0600</pubDate>
+      
+      <guid>https://emilyowl.github.io/sfp/blog/post-12/</guid>
+      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
+    </item>
+    
+    <item>
+      <title>Post-10</title>
+      <link>https://emilyowl.github.io/sfp/blog/post-10/</link>
+      <pubDate>Tue, 29 Oct 2019 19:07:47 +0600</pubDate>
+      
+      <guid>https://emilyowl.github.io/sfp/blog/post-10/</guid>
+      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
+    </item>
+    
+    <item>
+      <title>Post-6</title>
+      <link>https://emilyowl.github.io/sfp/blog/post-6/</link>
+      <pubDate>Tue, 29 Oct 2019 15:07:47 +0600</pubDate>
+      
+      <guid>https://emilyowl.github.io/sfp/blog/post-6/</guid>
+      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
+    </item>
+    
+  </channel>
+</rss>
