@@ -3,6 +3,41 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://emilyowl.github.io/sfp/categories/</loc>
+    <lastmod>2021-01-10T21:55:26+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://emilyowl.github.io/sfp/tags/hugo/</loc>
+    <lastmod>2021-01-10T21:55:26+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://emilyowl.github.io/sfp/</loc>
+    <lastmod>2021-01-10T21:55:26+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://emilyowl.github.io/sfp/tags/</loc>
+    <lastmod>2021-01-10T21:55:26+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://emilyowl.github.io/sfp/tags/test/</loc>
+    <lastmod>2021-01-10T21:55:26+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://emilyowl.github.io/sfp/blog/2021-01-10-finger-warm-up/</loc>
+    <lastmod>2021-01-10T21:55:26+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://emilyowl.github.io/sfp/categories/%E7%A2%8E%E7%91%A3/</loc>
+    <lastmod>2021-01-10T21:55:26+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://emilyowl.github.io/sfp/about/</loc>
     <lastmod>2020-01-17T22:54:23+08:00</lastmod>
   </url>
@@ -10,211 +45,6 @@
   <url>
     <loc>https://emilyowl.github.io/sfp/about/about/</loc>
     <lastmod>2020-01-17T22:54:23+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://emilyowl.github.io/sfp/</loc>
-    <lastmod>2020-01-17T22:54:23+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://emilyowl.github.io/sfp/categories/</loc>
-    <lastmod>2020-01-08T19:34:26+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://emilyowl.github.io/sfp/tags/html/</loc>
-    <lastmod>2020-01-08T19:34:26+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://emilyowl.github.io/sfp/tags/hugo/</loc>
-    <lastmod>2020-01-08T19:34:26+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://emilyowl.github.io/sfp/blog/new-post/</loc>
-    <lastmod>2020-01-08T19:34:26+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://emilyowl.github.io/sfp/tags/</loc>
-    <lastmod>2020-01-08T19:34:26+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://emilyowl.github.io/sfp/tags/test/</loc>
-    <lastmod>2020-01-08T19:34:26+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://emilyowl.github.io/sfp/categories/%E7%A2%BC%E7%9A%84-%E6%9C%89%E6%99%82%E5%AF%AB%E6%89%A3/</loc>
-    <lastmod>2020-01-08T19:34:26+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://emilyowl.github.io/sfp/tags/blog/</loc>
-    <lastmod>2020-01-08T19:29:26+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://emilyowl.github.io/sfp/blog/new-featured-post/</loc>
-    <lastmod>2020-01-08T19:29:26+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://emilyowl.github.io/sfp/tags/c&#43;&#43;/</loc>
-    <lastmod>2019-10-29T22:07:47+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://emilyowl.github.io/sfp/blog/post-13/</loc>
-    <lastmod>2019-10-29T22:07:47+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://emilyowl.github.io/sfp/categories/%E7%A2%BC%E7%9A%84%E6%9C%89%E6%99%82%E5%AF%AB%E6%89%A3/</loc>
-    <lastmod>2019-10-29T22:07:47+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://emilyowl.github.io/sfp/tags/go/</loc>
-    <lastmod>2019-10-29T21:07:47+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://emilyowl.github.io/sfp/blog/post-12/</loc>
-    <lastmod>2019-10-29T21:07:47+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://emilyowl.github.io/sfp/blog/post-11/</loc>
-    <lastmod>2019-10-29T20:07:47+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://emilyowl.github.io/sfp/tags/python/</loc>
-    <lastmod>2019-10-29T20:07:47+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://emilyowl.github.io/sfp/categories/ux%E6%B4%BB%E4%B8%8B%E5%8E%BB/</loc>
-    <lastmod>2019-10-29T20:07:47+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://emilyowl.github.io/sfp/tags/game/</loc>
-    <lastmod>2019-10-29T19:07:47+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://emilyowl.github.io/sfp/tags/new/</loc>
-    <lastmod>2019-10-29T19:07:47+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://emilyowl.github.io/sfp/tags/photos/</loc>
-    <lastmod>2019-10-29T19:07:47+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://emilyowl.github.io/sfp/blog/post-10/</loc>
-    <lastmod>2019-10-29T19:07:47+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://emilyowl.github.io/sfp/tags/brand/</loc>
-    <lastmod>2019-10-29T18:07:47+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://emilyowl.github.io/sfp/tags/freelance/</loc>
-    <lastmod>2019-10-29T18:07:47+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://emilyowl.github.io/sfp/tags/research/</loc>
-    <lastmod>2019-10-29T18:07:47+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://emilyowl.github.io/sfp/tags/%E5%89%B5%E6%A5%AD/</loc>
-    <lastmod>2019-10-29T18:07:47+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://emilyowl.github.io/sfp/blog/post-9/</loc>
-    <lastmod>2019-10-29T18:07:47+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://emilyowl.github.io/sfp/categories/%E7%A0%94%E7%A9%B6%E4%B8%8D%E5%8B%99%E6%AD%A3%E6%A5%AD/</loc>
-    <lastmod>2019-10-29T18:07:47+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://emilyowl.github.io/sfp/tags/thai/</loc>
-    <lastmod>2019-10-29T17:07:47+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://emilyowl.github.io/sfp/tags/travel/</loc>
-    <lastmod>2019-10-29T17:07:47+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://emilyowl.github.io/sfp/tags/visa/</loc>
-    <lastmod>2019-10-29T17:07:47+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://emilyowl.github.io/sfp/blog/post-8/</loc>
-    <lastmod>2019-10-29T17:07:47+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://emilyowl.github.io/sfp/categories/%E6%B3%B0%E7%88%BD%E8%B7%AF%E9%81%8E%E6%B3%B0%E5%9C%8B/</loc>
-    <lastmod>2019-10-29T17:07:47+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://emilyowl.github.io/sfp/blog/post-7/</loc>
-    <lastmod>2019-10-29T16:07:47+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://emilyowl.github.io/sfp/tags/%E5%8C%85%E9%A4%8A/</loc>
-    <lastmod>2019-10-29T16:07:47+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://emilyowl.github.io/sfp/categories/%E6%AD%A3%E5%A5%BD%E4%B8%8D%E6%83%B3%E4%B8%8A%E7%8F%AD/</loc>
-    <lastmod>2019-10-29T16:07:47+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://emilyowl.github.io/sfp/blog/post-6/</loc>
-    <lastmod>2019-10-29T15:07:47+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://emilyowl.github.io/sfp/tags/case-study/</loc>
-    <lastmod>2019-10-29T14:07:47+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://emilyowl.github.io/sfp/blog/post-5/</loc>
-    <lastmod>2019-10-29T14:07:47+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://emilyowl.github.io/sfp/tags/ux/</loc>
-    <lastmod>2019-10-29T14:07:47+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://emilyowl.github.io/sfp/tags/%E6%88%B6%E5%A4%96/</loc>
-    <lastmod>2019-10-29T14:07:47+06:00</lastmod>
   </url>
   
   <url>
@@ -230,66 +60,6 @@
   <url>
     <loc>https://emilyowl.github.io/sfp/search/</loc>
     <lastmod>2019-10-29T13:49:23+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://emilyowl.github.io/sfp/tags/design-sprint/</loc>
-    <lastmod>2019-10-29T13:07:47+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://emilyowl.github.io/sfp/blog/post-4/</loc>
-    <lastmod>2019-10-29T13:07:47+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://emilyowl.github.io/sfp/categories/ux.pm%E6%B4%BB%E4%B8%8B%E5%8E%BB/</loc>
-    <lastmod>2019-10-29T13:07:47+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://emilyowl.github.io/sfp/blog/post-3/</loc>
-    <lastmod>2019-10-29T12:07:47+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://emilyowl.github.io/sfp/tags/react/</loc>
-    <lastmod>2019-10-29T12:07:47+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://emilyowl.github.io/sfp/categories/web-design/</loc>
-    <lastmod>2019-10-29T12:07:47+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://emilyowl.github.io/sfp/categories/html-css/</loc>
-    <lastmod>2019-10-29T11:07:47+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://emilyowl.github.io/sfp/blog/post-2/</loc>
-    <lastmod>2019-10-29T11:07:47+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://emilyowl.github.io/sfp/tags/book/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://emilyowl.github.io/sfp/blog/post-1/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://emilyowl.github.io/sfp/tags/read/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://emilyowl.github.io/sfp/categories/%E8%A7%A3%E8%AE%80%E6%9C%89%E6%99%82%E8%AE%80%E6%9B%B8/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
   </url>
   
 </urlset>

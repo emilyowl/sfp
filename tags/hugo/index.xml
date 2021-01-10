@@ -6,38 +6,19 @@
     <description>Recent content in Hugo on SFP | Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Wed, 08 Jan 2020 19:34:26 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 10 Jan 2021 21:55:26 +0800</lastBuildDate>
     
 	<atom:link href="https://emilyowl.github.io/sfp/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>New Post</title>
-      <link>https://emilyowl.github.io/sfp/blog/new-post/</link>
-      <pubDate>Wed, 08 Jan 2020 19:34:26 +0800</pubDate>
+      <title>動動手啊動動腦</title>
+      <link>https://emilyowl.github.io/sfp/blog/2021-01-10-finger-warm-up/</link>
+      <pubDate>Sun, 10 Jan 2021 21:55:26 +0800</pubDate>
       
-      <guid>https://emilyowl.github.io/sfp/blog/new-post/</guid>
-      <description>這裡是呱呱的小樹屋，需要搞清楚首頁的發文排序，不然新文章只能在 Blog 裡面看到，蠻奇怪的</description>
-    </item>
-    
-    <item>
-      <title>New Featured Post</title>
-      <link>https://emilyowl.github.io/sfp/blog/new-featured-post/</link>
-      <pubDate>Wed, 08 Jan 2020 19:29:26 +0800</pubDate>
-      
-      <guid>https://emilyowl.github.io/sfp/blog/new-featured-post/</guid>
-      <description>想試試看發一篇文
-想試試看發一篇文
-想試試看發一篇文</description>
-    </item>
-    
-    <item>
-      <title>Post-6</title>
-      <link>https://emilyowl.github.io/sfp/blog/post-6/</link>
-      <pubDate>Tue, 29 Oct 2019 15:07:47 +0600</pubDate>
-      
-      <guid>https://emilyowl.github.io/sfp/blog/post-6/</guid>
-      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
+      <guid>https://emilyowl.github.io/sfp/blog/2021-01-10-finger-warm-up/</guid>
+      <description>如果沒有產出終將成為廢物 就在前年我沾沾自喜用 Hugo 架了 github page 之後我再也沒有更新過，直到今日想到還有這個地方時，github 傳來了這個消息
+ Basic authentication using a password to Git is deprecated and will soon no longer work.</description>
     </item>
     
   </channel>
