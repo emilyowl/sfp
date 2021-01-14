@@ -6,10 +6,28 @@
     <description>Recent content in Tags on SFP | Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Sun, 10 Jan 2021 21:55:26 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 13 Jan 2021 21:49:41 +0800</lastBuildDate>
     
 	<atom:link href="https://emilyowl.github.io/sfp/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Life Is Short</title>
+      <link>https://emilyowl.github.io/sfp/tags/life-is-short/</link>
+      <pubDate>Wed, 13 Jan 2021 21:49:41 +0800</pubDate>
+      
+      <guid>https://emilyowl.github.io/sfp/tags/life-is-short/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Work</title>
+      <link>https://emilyowl.github.io/sfp/tags/work/</link>
+      <pubDate>Wed, 13 Jan 2021 21:49:41 +0800</pubDate>
+      
+      <guid>https://emilyowl.github.io/sfp/tags/work/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Hugo</title>
