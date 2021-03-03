@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Money on SFP | Blog</title>
-    <link>https://emilyowl.github.io/sfp/tags/money/</link>
-    <description>Recent content in Money on SFP | Blog</description>
+    <title>創業練習 on SFP | Blog</title>
+    <link>https://emilyowl.github.io/sfp/categories/%E5%89%B5%E6%A5%AD%E7%B7%B4%E7%BF%92/</link>
+    <description>Recent content in 創業練習 on SFP | Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
     <lastBuildDate>Mon, 01 Mar 2021 00:33:03 +0800</lastBuildDate>
     
-	<atom:link href="https://emilyowl.github.io/sfp/tags/money/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://emilyowl.github.io/sfp/categories/%E5%89%B5%E6%A5%AD%E7%B7%B4%E7%BF%92/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -21,16 +21,6 @@
 .
  .
 👾 開店入坑前提：商品符合市場需求 👾 開店的根本在於商品本質，無論是經由小樣本、或從現有證據中驗證市場需求，知道商品的優劣勢、潛在受眾、損益平衡條件，再開始準備開店。這是一個不可逆的過程，從簽下店面、砸錢裝潢那一刻起，錢就變成店面的樣子了，除非開始營業或頂讓，你已沒有回收的機會，所以在繼續讀下去之前，先確認商品本質是否符合市場需求。</description>
-    </item>
-    
-    <item>
-      <title>I Need Money Though</title>
-      <link>https://emilyowl.github.io/sfp/blog/2021-01-22-i-need-money-though/</link>
-      <pubDate>Thu, 21 Jan 2021 23:59:48 +0800</pubDate>
-      
-      <guid>https://emilyowl.github.io/sfp/blog/2021-01-22-i-need-money-though/</guid>
-      <description>我大概只有一年的時間可以達成 「減少工時、提升單位薪資」 的目標，為了在有限的時間內找到最佳的工作，我用了類似撿最大顆石子的策略 ，概念來自這篇 李永樂：怎麽談戀愛，才能有效的找到自己的真命天子？ 簡單來說，就是以前幾次的嘗試作為樣本，在後面的嘗試若條件優於樣本，則採用。
- 如果這一年我想要做 6 次不同的嘗試，大約前 2 次會作為樣本；若以時間來切分，在 120 天之後，只要工時、薪水有比前兩次嘗試好，就很有可能是理想的工作</description>
     </item>
     
   </channel>

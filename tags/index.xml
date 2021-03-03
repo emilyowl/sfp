@@ -6,13 +6,31 @@
     <description>Recent content in Tags on SFP | Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Sat, 20 Feb 2021 23:52:39 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 01 Mar 2021 00:33:03 +0800</lastBuildDate>
     
 	<atom:link href="https://emilyowl.github.io/sfp/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Life is short</title>
+      <title>Business</title>
+      <link>https://emilyowl.github.io/sfp/tags/business/</link>
+      <pubDate>Mon, 01 Mar 2021 00:33:03 +0800</pubDate>
+      
+      <guid>https://emilyowl.github.io/sfp/tags/business/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Money</title>
+      <link>https://emilyowl.github.io/sfp/tags/money/</link>
+      <pubDate>Mon, 01 Mar 2021 00:33:03 +0800</pubDate>
+      
+      <guid>https://emilyowl.github.io/sfp/tags/money/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Life Is Short</title>
       <link>https://emilyowl.github.io/sfp/tags/life-is-short/</link>
       <pubDate>Sat, 20 Feb 2021 23:52:39 +0800</pubDate>
       
@@ -53,15 +71,6 @@
       <pubDate>Wed, 27 Jan 2021 19:53:27 +0800</pubDate>
       
       <guid>https://emilyowl.github.io/sfp/tags/pause/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Money</title>
-      <link>https://emilyowl.github.io/sfp/tags/money/</link>
-      <pubDate>Thu, 21 Jan 2021 23:59:48 +0800</pubDate>
-      
-      <guid>https://emilyowl.github.io/sfp/tags/money/</guid>
       <description></description>
     </item>
     
