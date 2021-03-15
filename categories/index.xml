@@ -6,10 +6,19 @@
     <description>Recent content in Categories on SFP | Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Mon, 01 Mar 2021 00:33:03 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 14 Mar 2021 23:39:23 +0800</lastBuildDate>
     
 	<atom:link href="https://emilyowl.github.io/sfp/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>我有問題</title>
+      <link>https://emilyowl.github.io/sfp/categories/%E6%88%91%E6%9C%89%E5%95%8F%E9%A1%8C/</link>
+      <pubDate>Sun, 14 Mar 2021 23:39:23 +0800</pubDate>
+      
+      <guid>https://emilyowl.github.io/sfp/categories/%E6%88%91%E6%9C%89%E5%95%8F%E9%A1%8C/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>創業練習</title>
@@ -26,15 +35,6 @@
       <pubDate>Sat, 20 Feb 2021 23:52:39 +0800</pubDate>
       
       <guid>https://emilyowl.github.io/sfp/categories/%E6%9A%AB%E5%81%9C%E6%99%82%E9%96%93/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>我有問題</title>
-      <link>https://emilyowl.github.io/sfp/categories/%E6%88%91%E6%9C%89%E5%95%8F%E9%A1%8C/</link>
-      <pubDate>Mon, 08 Feb 2021 13:34:09 +0800</pubDate>
-      
-      <guid>https://emilyowl.github.io/sfp/categories/%E6%88%91%E6%9C%89%E5%95%8F%E9%A1%8C/</guid>
       <description></description>
     </item>
     
