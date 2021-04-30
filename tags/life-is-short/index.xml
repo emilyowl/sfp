@@ -1,15 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Life is short on SFP | Blog</title>
+    <title>Life Is Short on SFP | Blog</title>
     <link>https://emilyowl.github.io/sfp/tags/life-is-short/</link>
-    <description>Recent content in Life is short on SFP | Blog</description>
+    <description>Recent content in Life Is Short on SFP | Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Sun, 14 Mar 2021 23:39:23 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 30 Apr 2021 16:15:10 +0800</lastBuildDate>
     
 	<atom:link href="https://emilyowl.github.io/sfp/tags/life-is-short/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>我的時間寶貴</title>
+      <link>https://emilyowl.github.io/sfp/blog/2021-04-30-time-record/</link>
+      <pubDate>Fri, 30 Apr 2021 16:15:10 +0800</pubDate>
+      
+      <guid>https://emilyowl.github.io/sfp/blog/2021-04-30-time-record/</guid>
+      <description>在開店以前，我就有一些目標想完成，像是學泰文、研究新技術跟運動，但過去一年來始終進展緩慢，我以為是因為籌備開店和營運需要各地跑來跑去、讓我失去對時間的掌控，但在小店上軌道之後，90% 的時間我都在待家裡，人生進度條卻還是沒什麼進展，某天突然驚覺再這麼廢物下去，我想盡辦法讓小店自主營運就沒意義了啊！！（為了不要進店，我寧願多請一個人，結果居然待在家裡什麼事都沒做&amp;hellip;）
+根據之前當 PM 的經驗，產出效率不好，可能是待辦項目不夠清楚、未認知到重要性高低、一直在做雜事導致，可以從「項目可視化」跟「追蹤流程」下手。
+.
+對自己誠實： .
+ 有些目標我不是真的想做  原本想做的事情很多，但一年以來有些事情就是沒什麼動力去做，大概明瞭哪些是為了迎合外人期待而設立的目標、並不是自己真的想做，因此誠實地刪掉了許多。大致剩下：運動、學泰文、學運動與按摩知識、學 Blender 做酷東西。</description>
+    </item>
     
     <item>
       <title>為什麼人會變老？天地創造設計部這麼說</title>
